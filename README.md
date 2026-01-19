@@ -5,8 +5,7 @@ key drivers of employee turnover and provide actionable business insights.
 
 ## 🔗 Live Report
 View the interactive HTML report here:  
-https://mary1914.github.io/Data-Analytics-Employee-attrition-Casestudy/
-
+ https://mary1914.github.io/Data-Analytics-Employee-attrition-Casestudy/
 ## 📊 Tools & Technologies
 - Power BI
 - Data Analysis & Visualisation
